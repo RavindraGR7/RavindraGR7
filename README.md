@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishigr7&show_icons=true&locale=en&layout=compact" alt="rishigr7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishigr7&" alt="rishigr7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RavindraGR7&" alt="RavindraGR7" /></p>
