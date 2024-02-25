@@ -15,6 +15,7 @@
 ## Reach Out 📬
 - Email: **gavirneni.ravindra83@gmail.com**
 - Instagram: [@_._ravindra_._](https://instagram.com/_._ravindra_._)
+- Linkedin: [@ravindranath-gavirneni](https://www.linkedin.com/in/ravindranath-gavirneni/)
 
 ## Skills Toolbox 🧰
 <p align="left">
