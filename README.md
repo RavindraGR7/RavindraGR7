@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Ravindra!</h1>
 <h2 align="center">🚀 AI Innovator | 🌿 Sustainability Advocate | 📊 Data Wizard</h2>
-<p align="center">Blending cutting-edge AI with a green thumb to tech a better tomorrow.</p>
+<p align="center">Blending cutting-edge AI with a green thumb to tech & a better tomorrow.</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=RavindraGR7&style=flat-square&color=blue" alt="profile views">
